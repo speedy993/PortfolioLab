@@ -1,0 +1,97 @@
+  {
+    "data": [
+   
+        {
+            "id" : "0",
+             "name":  "W naszej bazie znajdziesz listę zweryfikowanych Fundacji, z którymi współpracujemy. Możesz sprawdzić czym się zajmują, komu pomagają i czego potrzebują.",
+      
+       "fundaction": [
+           {
+            "fundaction_name_1": "Fundacja 'Dbam o Zdrowie'",
+            "fundaction_goal_1": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+            "fundaction_mini_1": "ubrania, jedzenie, sprzęt AGD, meble, zabawki"
+           },
+           {
+            "fundaction_name_1": "Fundacja 'Dla dzieci'",
+            "fundaction_goal_1": "Cel i misja: Pomoc dzieciom z ubogich rodzin.", 
+            "fundaction_mini_1": "ubrania, meble, zabawki"
+           },
+           {
+            "fundaction_name_1": "Fundacja 'Bez domu'", 
+            "fundaction_goal_1": "Cel i misja: Pomoc dla osób nie posiadających miejsca zamieszkania.",
+            "fundaction_mini_1": "ubrania, jedzenie, ciepłe koce"
+           },
+           {
+            "fundaction_name_1": "Fundacja 'Promyk'",
+            "fundaction_goal_1": "Cel i misja: Pomoc osobom znajdującym się w trudnej sytuacji życiowej.",
+            "fundaction_mini_1": "ubrania, jedzenie, sprzęt AGD, meble, zabawki"
+           },
+           {
+            "fundaction_name_1": "Fundacja 'Fortuna'",
+            "fundaction_goal_1": "Cel i misja: Pomoc dzieciom z ubogich rodzin.", 
+            "fundaction_mini_1": "ubrania, meble, zabawki"
+           },
+           {
+            "fundaction_name_1": "Fundacja 'Budzik'", 
+            "fundaction_goal_1": "Cel i misja: Pomoc dla osób nie posiadających miejsca zamieszkania.",
+            "fundaction_mini_1": "ubrania, jedzenie, ciepłe koce"
+           }
+    
+        ]
+      },
+       
+        
+        { 
+            "id" : "1",
+            "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+        "fundaction": [
+            {
+             "fundaction_name_1": "Organizacja 'Lorem Ipsum 1'",
+             "fundaction_goal_1": "Quis varius quam quisque id diam vel quam elementum pulvinar.",
+             "fundaction_mini_1": "Egestas, sed, tempus"
+            },
+            {
+             "fundaction_name_2": "Organizacja 'Lorem Ipsum 2'",
+             "fundaction_goal_2": "Hendrerit gravida rutrum quisque non tellus orci ac auctor augue.", 
+             "fundaction_mini_2": "Ut, aliquam, purus, sit, amet"
+            },
+            {
+             "fundaction_name_3": "Organizacja 'Lorem Ipsum 3'", 
+             "fundaction_goal_3": "Scelerisque in dictum non consectetur a erat nam.",
+             "fundaction_mini_3": "Mi, quis, hendrerit, dolor"
+            }
+     
+         ]},
+      
+        { 
+            "id" : "2",
+            "name": "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+        "fundaction": [
+            {
+             "fundaction_name_1": "Zbiórka 'Lorem Ipsum 1'",
+             "fundaction_goal_1": "Quis varius quam quisque id diam vel quam elementum pulvinar.",
+             "fundaction_mini_1": "Egestas, sed, tempus"
+            },
+            {
+             "fundaction_name_2": "Zbiórka 'Lorem Ipsum 2'",
+             "fundaction_goal_2": "Hendrerit gravida rutrum quisque non tellus orci ac auctor augue.", 
+             "fundaction_mini_2": "Ut, aliquam, purus, sit, amet"
+            },
+            {
+             "fundaction_name_3": "Zbiórka 'Lorem Ipsum 3'", 
+             "fundaction_goal_3": "Scelerisque in dictum non consectetur a erat nam.",
+             "fundaction_mini_3": "Mi, quis, hendrerit, dolor"
+            }
+     
+         ]}
+        
+        ]
+
+
+
+
+
+
+
+    
+  }
